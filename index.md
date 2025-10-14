@@ -1,10 +1,23 @@
 # azstorage
 
-**azstorage** is a simple iOS app that lets you back up and sync your photos and videos to your own cloud storage account (Azure Blob, AWS S3, or Google Cloud Storage).  
+**azstorage** is a simple iOS app that lets you back up and sync your photos and videos — your way.
 
-Unlike traditional cloud services, azstorage gives you full control:  
-- ✅ Upload your photos and videos to your personal storage  
-- ✅ Download from your storage back to your device  
-- ✅ No third-party servers — all connections are between your iPhone and your cloud  
+You can choose where to store your data:
 
-[Privacy Policy](privacy.md) | [Support](support.md)
+- ☁️ **Your Own Cloud** — connect Azure Blob, AWS S3, or Google Cloud Storage and keep full control of your files.  
+- 🔒 **Az Cloud Storage Plans** — use our managed cloud hosted on Microsoft Azure, starting with **5 GB free** and affordable paid tiers for larger storage.
+
+---
+
+### Why azstorage?
+
+- ✅ Upload and sync photos and videos securely  
+- ✅ Download them anytime, directly from your cloud  
+- ✅ No hidden servers — all connections are between your iPhone and your chosen cloud  
+- ✅ Optional built-in storage if you don’t have a cloud account  
+
+---
+
+📄 [Privacy Policy](privacy.md)  
+🛠 [Support](support.md)  
+💰 [Pricing & Plans](pricing.md)
